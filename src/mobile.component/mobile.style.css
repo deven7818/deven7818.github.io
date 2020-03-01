@@ -1,0 +1,43 @@
+
+.Mcust{   
+  margin-top: 40px;
+  padding: 15px;
+  background-color:lightblue ;  
+  height: 220;
+  font-family: 'Roboto Slab', serif;
+}
+  
+
+.bgMobImg{
+    background-image: url('../images/HomeImages/mobapp4.jpg');
+    background-size: 100% 100%;
+    padding: 40px 0px;
+    margin-left: 18rem;
+    margin-top:2rem;
+    width: 50%;
+    height: 260px;
+  }
+  
+  .MobInfo{
+    font-size: 18px;
+    margin-top: 4rem;
+    margin-bottom: 150px;
+    width: 100%;
+    height: auto;
+  }
+  
+.MobInfo h6{
+  margin-bottom: 2rem;
+  font-size: 15px;
+    font-weight: bold;
+}
+
+.MobInfo h8{
+  font-size: 15px;
+    font-weight: bold;
+}
+
+.MobInfo p{
+  text-align: justify;
+}
+  

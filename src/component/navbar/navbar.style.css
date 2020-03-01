@@ -1,0 +1,23 @@
+
+.logoi{
+    background-image: url('Logo.jpg');
+    margin-top: 1rem;
+    background-size: 100% 100%;
+    width: 16%;
+    height: 110px;
+  }
+
+  .dropdown:hover .dropdown-menu {
+    display: block;
+}
+.hover_drop_down.input-group-btn ul.dropdown-menu{margin-top: 0px;}/*To avoid unwanted close*/
+.hover_drop_down.btn-group ul.dropdown-menu{margin-top:2px;}/*To avoid unwanted close*/
+.hover_drop_down:hover ul.dropdown-menu{
+   display: block;
+}
+
+
+.product:hover {
+  background-color: skyblue;
+  color: white;
+}
